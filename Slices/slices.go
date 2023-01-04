@@ -30,7 +30,7 @@ package main
 import "fmt"
 
 func main() {
-	my := []string{"a", "b", "c", "d"}
+	my := []string{"a", "b", "c", "e"}
 	fmt.Println(my)
 	my = append(my, "v")
 	fmt.Println(my)
