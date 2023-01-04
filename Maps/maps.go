@@ -56,7 +56,7 @@ func main() {
 		1: "Apple",
 		2: "Redmi",
 		3: "Samsung",
-		4: "Oneplus",
+		4: "Oneplus Nord CE",
 		5: "Vivo",
 	}
 	fmt.Println(v)
